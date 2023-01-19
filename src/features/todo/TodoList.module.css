@@ -1,0 +1,18 @@
+.list {
+  list-style: none;
+}
+
+.item {
+  margin: 5px 0;
+}
+.item input[type="text"] {
+  font-size: 1.4em;
+  width: 300px;
+}
+.item input[type="checkbox"] {
+  margin-left: 12px;
+  transform: scale(1.4);
+}
+.item input {
+  line-height: 32px;
+}
